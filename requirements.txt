@@ -1,0 +1,11 @@
+Click==7.0
+comtypes==1.1.7
+Flask==1.0.2
+gunicorn==19.9.0
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.0
+pythonnet==2.3.0
+pywebview==2.2.1
+pywin32==224
+Werkzeug==0.14.1
